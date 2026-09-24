@@ -1,0 +1,7 @@
+"Key1"  "Extra1"
+"Key2"  "Extra2"
+"List"
+{
+	"InnerKey1"  "InnerExtra1"
+	"InnerKey2"  "InnerExtra2"
+}

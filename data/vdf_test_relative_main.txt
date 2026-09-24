@@ -1,0 +1,7 @@
+#base "vdf_test_base_extras.txt"
+
+"Key1"  "Value1"
+"List"
+{
+	"InnerKey1"  "InnerValue1"
+}
